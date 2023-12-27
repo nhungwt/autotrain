@@ -1,0 +1,24 @@
+- sections: 
+  - local: index
+    title: 🤗 AutoTrain
+  - local: getting_started
+    title: Installation
+  - local: cost
+    title: How much does it cost?
+  - local: support
+    title: Get help and support
+  title: Get started
+- sections: 
+  - local: text_classification
+    title: Text Classification
+  - local: llm_finetuning
+    title: LLM Finetuning
+  - local: image_classification
+    title: Image Classification
+  - local: dreambooth
+    title: DreamBooth
+  - local: seq2seq
+    title: Seq2Seq
+  - local: tabular
+    title: Tabular
+  title: Data Formats
